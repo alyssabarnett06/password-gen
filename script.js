@@ -114,6 +114,14 @@ function promptUser(msg){
     }
 }
 
+function copyToClip(){
+    document.getElementById("display").select();
+
+    document.execCommand("Copy");
+
+    alert("Password Copied to Clipboard!");
+}
+
 
 
 
