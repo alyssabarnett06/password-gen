@@ -1,8 +1,8 @@
 .content{
     margin-top: 10px;
     margin-bottom: 10px;
-    background-color: lightgray;
     padding: 20px;
+    background-color: lightgray;
     width: 100%;
 
 }
@@ -11,7 +11,8 @@
     width: 100%;
 
 }
-/* 
-#slider{
-    width: 100%;
-} */
+
+.navbar{
+    background-color: lime;
+}
+
